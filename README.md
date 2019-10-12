@@ -2,7 +2,7 @@
 
 Slides: https://docs.google.com/presentation/d/13rnvQ7w2YT3WQKgDDAEd7Unlf67WcgzYVN3uGt-vJP8/edit?usp=sharing
 
-Notebook: https://github.com/nicktimko/chipy-magicmethods/blob/master/MagicMethods.ipynb
+Notebook: https://github.com/nicktimko/talks-magicmethods/blob/master/MagicMethods.ipynb
 
 ---
 
